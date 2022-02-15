@@ -1,38 +1,170 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T07:52:46.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="lqaPBBQsMt8LifxRgyJZ" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T08:28:58.066Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="igaB3bRKkCymH5Ufrezm" version="16.5.6" type="github">
   <diagram id="S-3z3gY1DUawhLGB5Od1" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="252" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="312" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1349" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1282" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1212" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1072" width="470" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1009" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="752" width="470" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="372" width="470" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-21" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="90" y="492" width="470" height="250" as="geometry" />
+        </mxCell>
         <mxCell id="WlhzL5B_EylpTMc-1tn4-3" value="Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="290" y="110" width="80" height="30" as="geometry" />
+          <mxGeometry x="120" y="263.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WlhzL5B_EylpTMc-1tn4-5" value="Task" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="280" y="160" width="80" height="30" as="geometry" />
+          <mxGeometry x="110" y="323.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WlhzL5B_EylpTMc-1tn4-6" value="Schedule" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="280" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="120" y="412" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WlhzL5B_EylpTMc-1tn4-8" value="All Schedule" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="420" y="210" width="100" height="30" as="geometry" />
+          <mxGeometry x="310" y="392" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WlhzL5B_EylpTMc-1tn4-9" value="Holidays" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="420" y="250" width="100" height="30" as="geometry" />
+          <mxGeometry x="295" y="432" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WlhzL5B_EylpTMc-1tn4-11" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlhzL5B_EylpTMc-1tn4-6" target="WlhzL5B_EylpTMc-1tn4-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="400" as="sourcePoint" />
-            <mxPoint x="620" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-13" value="Appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="120" y="602" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WlhzL5B_EylpTMc-1tn4-12" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Verdana;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WlhzL5B_EylpTMc-1tn4-6" target="WlhzL5B_EylpTMc-1tn4-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="400" as="sourcePoint" />
-            <mxPoint x="620" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="260" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-14" value="All" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="275" y="510" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-15" value="Add" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="280" y="550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-16" value="Today" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="300" y="582" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-17" value="Upcoming" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="300" y="617" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-18" value="Calender" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="295" y="662" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-19" value="Request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="295" y="700" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-20" value="Financial Activities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="80" y="862" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-23" value="Payments" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="301" y="759" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-26" value="Add Payment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="305" y="799" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-27" value="Payment Procedures" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="311" y="839" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-28" value="Expense" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="267" y="879" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-29" value="Add Expense" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="287" y="919" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-30" value="Expense Categories" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="310" y="959" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-32" value="Prescription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1020.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-33" value="Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1122" width="142.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-35" value="Birth Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="302" y="1082" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-36" value="Operation Report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="302" y="1122" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-37" value="Expire report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="286" y="1162" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-40" value="Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="112.5" y="1223.5" width="77.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-41" value="Email" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1293.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-42" value="New" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1293.5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-43" value="Profile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1360.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-52" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="250" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-53" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="470" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-60" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-61" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="440" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-62" value="Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="680" y="261.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-63" value="Today&#39;s Appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="665" y="321.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-64" value="Appointment Calender" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="675" y="382" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-67" value="Prescription" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="680" y="455" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-90" value="Doctor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-91" value="Patient" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=30;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="770" y="160" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="510" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-93" value="Documents" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="680" y="525" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-94" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="580" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-95" value="Reports" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="680" y="595" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-96" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="647" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WlhzL5B_EylpTMc-1tn4-97" value="Profile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="680" y="662" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
